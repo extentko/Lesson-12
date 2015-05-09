@@ -1,0 +1,37 @@
+Menu:
+
+	Services Industries Solutions Strengths Company Careers
+
+===========================================================
+
+Hero unit:
+
+	EPAM is the #1 software services and solutions provider from Central and Eastern Europe
+
+	We achieved our success through almost two decades of line-by-line hand crafting of complex solutions. From software products to core business applications, EPAM has provided expert consulting, development, testing, support and infrastructure services to many of the world’s leading organizations.
+
+===========================================================
+
+News units:
+
+	EPAM Reports Results for First Quarter 2014
+
+	EPAM generated cash from operations of $16.2 million in the first quarter of 2014, an increase of $27.9 million from $11.7 million used in operations in the first quarter of 2013.
+
+	-------------------------------------------------------
+
+	EPAM Reports Results for First Quarter 2014
+
+	EPAM Central & Eastern European Delivery Centers Appraised at Highest CMMI Maturity Level 5
+
+	-------------------------------------------------------
+
+	EPAM Anniversary Timeline
+
+	EPAM turned 20 years old in December, 2013. Get a glimpse of EPAM “back in the day” – see the timeline from the last 20 years.
+
+===========================================================
+
+Footer:
+
+	© 1993-2014. EPAM Systems. All Rights Reserved
